@@ -19,7 +19,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/sahilmd01/animated-login-page.git
+git clone https:/github.com/sahilmd01/animated-login-page.git
 Open the index.html file in your browser.
 Customize as needed! 🎨
 📂 Project Structure
